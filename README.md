@@ -29,7 +29,3 @@ ECLIPS was coded by Xavier Nojas with the aim of providing a practical solution 
 ## Contributing
 
 Contributions to ECLIPS are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-ECLIPS is licensed under the [MIT License](LICENSE).
